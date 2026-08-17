@@ -1,0 +1,56 @@
+{
+  "asOf": "Jul 2026",
+  "investor": {
+    "value": 66.2,
+    "label": "SUPPORTIVE",
+    "direction": "up",
+    "directionText": "improving",
+    "history": [
+      {
+        "month": "Feb",
+        "value": 63.8
+      },
+      {
+        "month": "Mar",
+        "value": 64.7
+      },
+      {
+        "month": "Apr",
+        "value": 63.6
+      },
+      {
+        "month": "May",
+        "value": 60.0
+      },
+      {
+        "month": "Jun",
+        "value": 60.8
+      },
+      {
+        "month": "Jul",
+        "value": 66.2
+      }
+    ]
+  },
+  "trader": {
+    "value": 68.0,
+    "label": "SUPPORTIVE",
+    "direction": "up",
+    "directionText": "improving sharply",
+    "history": [
+      {
+        "month": "May",
+        "value": 62.0
+      },
+      {
+        "month": "Jun",
+        "value": 62.0
+      },
+      {
+        "month": "Jul",
+        "value": 68.0
+      }
+    ]
+  },
+  "overrideActive": false
+}
