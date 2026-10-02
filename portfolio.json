@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-10-01",
+  "as_of": "2026-10-02",
   "base_currency": "USD",
   "record_start_date": null,
   "portfolio_return_pct": null,
   "cash": {
-    "weight_pct": 31.0
+    "weight_pct": 31.01
   },
   "open_positions": [
     {
@@ -20,8 +20,8 @@
       "hold_or_scale_out_if": "",
       "sell_if": "",
       "held_before_launch": "",
-      "weight_pct": 23.1,
-      "weight_pct_invested": 33.48
+      "weight_pct": 23.11,
+      "weight_pct_invested": 33.49
     },
     {
       "position_id": "URAETF-2",
@@ -37,7 +37,7 @@
       "sell_if": "",
       "held_before_launch": "",
       "weight_pct": 15.49,
-      "weight_pct_invested": 22.45
+      "weight_pct_invested": 22.46
     },
     {
       "position_id": "IONQ-4",
@@ -46,14 +46,14 @@
       "asset_type": "",
       "currency": "USD",
       "date_opened": "2025-02-06",
-      "pl_pct": 46.09,
+      "pl_pct": 45.3,
       "why_picked": "",
       "strengths": "",
       "hold_or_scale_out_if": "",
       "sell_if": "",
       "held_before_launch": "",
-      "weight_pct": 1.79,
-      "weight_pct_invested": 2.59
+      "weight_pct": 1.78,
+      "weight_pct_invested": 2.57
     },
     {
       "position_id": "VWCE-6",
@@ -126,14 +126,14 @@
       "asset_type": "",
       "currency": "CAD",
       "date_opened": "2026-01-07",
-      "pl_pct": 71.8,
+      "pl_pct": 72.02,
       "why_picked": "",
       "strengths": "",
       "hold_or_scale_out_if": "",
       "sell_if": "",
       "held_before_launch": "",
       "weight_pct": 2.0,
-      "weight_pct_invested": 2.9
+      "weight_pct_invested": 2.91
     },
     {
       "position_id": "UUUU-10",
@@ -142,14 +142,14 @@
       "asset_type": "",
       "currency": "USD",
       "date_opened": "2026-01-08",
-      "pl_pct": -40.03,
+      "pl_pct": -40.28,
       "why_picked": "",
       "strengths": "",
       "hold_or_scale_out_if": "",
       "sell_if": "",
       "held_before_launch": "",
-      "weight_pct": 1.48,
-      "weight_pct_invested": 2.14
+      "weight_pct": 1.47,
+      "weight_pct_invested": 2.13
     },
     {
       "position_id": "COPA-11",
@@ -158,14 +158,14 @@
       "asset_type": "",
       "currency": "USD",
       "date_opened": "2026-01-28",
-      "pl_pct": 1.25,
+      "pl_pct": 0.58,
       "why_picked": "",
       "strengths": "",
       "hold_or_scale_out_if": "",
       "sell_if": "",
       "held_before_launch": "",
-      "weight_pct": 2.38,
-      "weight_pct_invested": 3.45
+      "weight_pct": 2.37,
+      "weight_pct_invested": 3.43
     },
     {
       "position_id": "IVN-12",
@@ -174,14 +174,14 @@
       "asset_type": "",
       "currency": "CAD",
       "date_opened": "2026-01-28",
-      "pl_pct": -20.28,
+      "pl_pct": -20.21,
       "why_picked": "",
       "strengths": "",
       "hold_or_scale_out_if": "",
       "sell_if": "",
       "held_before_launch": "",
-      "weight_pct": 2.26,
-      "weight_pct_invested": 3.28
+      "weight_pct": 2.27,
+      "weight_pct_invested": 3.29
     },
     {
       "position_id": "SOLS-13",
@@ -190,14 +190,14 @@
       "asset_type": "",
       "currency": "USD",
       "date_opened": "2026-03-09",
-      "pl_pct": -17.79,
+      "pl_pct": -17.14,
       "why_picked": "",
       "strengths": "",
       "hold_or_scale_out_if": "",
       "sell_if": "",
       "held_before_launch": "",
       "weight_pct": 0.78,
-      "weight_pct_invested": 1.12
+      "weight_pct_invested": 1.13
     },
     {
       "position_id": "HUSQVARNA-14",
@@ -222,14 +222,14 @@
       "asset_type": "",
       "currency": "CAD",
       "date_opened": "2026-04-15",
-      "pl_pct": -51.2,
+      "pl_pct": -52.91,
       "why_picked": "",
       "strengths": "",
       "hold_or_scale_out_if": "",
       "sell_if": "",
       "held_before_launch": "",
-      "weight_pct": 0.46,
-      "weight_pct_invested": 0.66
+      "weight_pct": 0.44,
+      "weight_pct_invested": 0.64
     },
     {
       "position_id": "SCCO-16",
@@ -238,14 +238,14 @@
       "asset_type": "",
       "currency": "USD",
       "date_opened": "2026-04-15",
-      "pl_pct": 7.4,
+      "pl_pct": 7.61,
       "why_picked": "",
       "strengths": "",
       "hold_or_scale_out_if": "",
       "sell_if": "",
       "held_before_launch": "",
       "weight_pct": 2.73,
-      "weight_pct_invested": 3.95
+      "weight_pct_invested": 3.96
     },
     {
       "position_id": "AIGG-17",
@@ -286,14 +286,14 @@
       "asset_type": "",
       "currency": "CAD",
       "date_opened": "2026-05-07",
-      "pl_pct": -32.94,
+      "pl_pct": -32.39,
       "why_picked": "",
       "strengths": "",
       "hold_or_scale_out_if": "",
       "sell_if": "",
       "held_before_launch": "",
-      "weight_pct": 0.77,
-      "weight_pct_invested": 1.12
+      "weight_pct": 0.78,
+      "weight_pct_invested": 1.13
     },
     {
       "position_id": "LAR-20",
@@ -302,14 +302,14 @@
       "asset_type": "",
       "currency": "USD",
       "date_opened": "2026-05-12",
-      "pl_pct": -53.92,
+      "pl_pct": -53.2,
       "why_picked": "",
       "strengths": "",
       "hold_or_scale_out_if": "",
       "sell_if": "",
       "held_before_launch": "",
-      "weight_pct": 0.5,
-      "weight_pct_invested": 0.72
+      "weight_pct": 0.51,
+      "weight_pct_invested": 0.73
     },
     {
       "position_id": "ALB-21",
@@ -318,14 +318,14 @@
       "asset_type": "",
       "currency": "USD",
       "date_opened": "2026-05-13",
-      "pl_pct": -27.68,
+      "pl_pct": -27.84,
       "why_picked": "",
       "strengths": "",
       "hold_or_scale_out_if": "",
       "sell_if": "",
       "held_before_launch": "",
-      "weight_pct": 2.89,
-      "weight_pct_invested": 4.19
+      "weight_pct": 2.88,
+      "weight_pct_invested": 4.18
     },
     {
       "position_id": "FPX-22",
@@ -334,14 +334,14 @@
       "asset_type": "",
       "currency": "CAD",
       "date_opened": "2026-05-13",
-      "pl_pct": -50.14,
+      "pl_pct": -51.03,
       "why_picked": "",
       "strengths": "",
       "hold_or_scale_out_if": "",
       "sell_if": "",
       "held_before_launch": "",
-      "weight_pct": 0.27,
-      "weight_pct_invested": 0.39
+      "weight_pct": 0.26,
+      "weight_pct_invested": 0.38
     },
     {
       "position_id": "ETN-23",
@@ -350,7 +350,7 @@
       "asset_type": "",
       "currency": "USD",
       "date_opened": "2026-06-26",
-      "pl_pct": 4.93,
+      "pl_pct": 4.77,
       "why_picked": "",
       "strengths": "",
       "hold_or_scale_out_if": "",
